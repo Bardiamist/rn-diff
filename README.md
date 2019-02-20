@@ -26,6 +26,7 @@ Please :star: this repository if I helped you ;)
 
 Version|Compare view|Patch|Stats
 ----|----|----|----
+0.58.5|[rn-0.58.4...rn-0.58.5](https://github.com/bardiamist/rn-diff/compare/rn-0.58.4...rn-0.58.5)|[rn-0.58.4...rn-0.58.5](https://github.com/bardiamist/rn-diff/compare/rn-0.58.4...rn-0.58.5.diff)|
 0.58.4|[rn-0.58.3...rn-0.58.4](https://github.com/bardiamist/rn-diff/compare/rn-0.58.3...rn-0.58.4)|[rn-0.58.3...rn-0.58.4](https://github.com/bardiamist/rn-diff/compare/rn-0.58.3...rn-0.58.4.diff)|
 0.58.3|[rn-0.58.2...rn-0.58.3](https://github.com/bardiamist/rn-diff/compare/rn-0.58.2...rn-0.58.3)|[rn-0.58.2...rn-0.58.3](https://github.com/bardiamist/rn-diff/compare/rn-0.58.2...rn-0.58.3.diff)|
 0.58.2|[rn-0.58.1...rn-0.58.2](https://github.com/bardiamist/rn-diff/compare/rn-0.58.1...rn-0.58.2)|[rn-0.58.1...rn-0.58.2](https://github.com/bardiamist/rn-diff/compare/rn-0.58.1...rn-0.58.2.diff)|
